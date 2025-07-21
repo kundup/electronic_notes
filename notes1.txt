@@ -1,0 +1,6 @@
+tek yonlu akimi iletir diyotlar buda pozitif yonden negatif dogrudur. bu nedenle forward biased dirlar. negatif yonde iletilen voltaj
+sonucu diyot acik devre gibi davranir.
+
+diyotlar negatif yonlu akimda belirli dayanma voltajlari vardir. buna breakdown point denir. buradan sonra diyot calismsai bozulr.
+
+diyotlar belirli bir esik degerini asinca iletime gecerler. silikon diyotlarda bu oran 0.7 volttur.
