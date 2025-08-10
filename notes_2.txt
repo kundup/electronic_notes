@@ -3,3 +3,5 @@ hocam osilatorler; giris sinyalini yukselterek ve ayni fazda cikisa verip devam 
 hocam bunlari devam ettirip dongu olustururlar.
 
 - giris ve cikis fazlari arasindaki fark 360 derece olmasi gerekir. yani ayni sekilde olacaklar.
+- bir devreye sadece dc akim verilip cikisndan degisken isaret elde ediliyorsa osilator yapiliyordur. bobin ve kondansotor osilator devrelerin
+kilit elemanlaridir.
