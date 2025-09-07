@@ -31,5 +31,15 @@ RL devrelerinde; ELI => voltaj akimdan ileridedir.
 
 
 
+toplam guc/ GORUNUR GUC : VA
+Gercek guc : watt
+reaktans guc : VAR
+power factor : watt / VA
+
+tekrar edelim gerek guc : in phase, direnc ve other komponentlerin yaptigi is referans cizgisinde;
+rekatans guc : 90 derece fark, out of phase; inductor ve capacitor un yaptigi is; 
+(toplam guc)^2 = (gercek guc) ^2 + (reaktans guc) ^ 2 (pisagor teoreminden) 
+
+
     
 
