@@ -4,6 +4,32 @@ seri induktor : l1 + l2 ...
 paralel induktor : 1/ (1/l1 + 1/l2 ..)
 induktans (ohm) = xl = 2 * pi * f * l 
 
-hocam l burada : kablo capina, uzunluguna ve ortasinda magnetik bir cismin olmasina gore degisiklik gosterir.
+RL devrelerinde; ELI => voltaj akimdan ileridedir.
+    - seri RL devrelerinde 
 
-hocam induktansi artinca akim azalir ohm kanuna gore.
+    EL (90)
+    -
+    -
+    --------0 ER it,ir,il = 0, constant referans noktasi akim esit.
+
+    neden +90? : cunku voltaj akimdan ileridedir. akim referans hatitni olusturuyor sabit oldugu icin voltajda ileride oldugu icin +90 fark olusturuyor.
+    
+    ET ^ 2 = (er)^2 + (el)^2
+
+    - Paralel RL devrelerinde:
+
+    -------IR - referans noktasi voltaj esit et,er,el = 0, constant
+    -
+    -
+    -
+    IL(-90)
+
+    IT ^ 2 = (ir)^2 + (il)^2
+
+    neden -90? : cunku ELI; voltaj zaten ir da 0 ve voltaj dan geride oldguna gore IL = -90; induktor icin akim voltajin gerisindedir; 
+    resistor herzaman ayni faz hattindadir ozaman il geride olacak cunku el = referans 0 derece olarak aliyoruz.
+
+
+
+    
+
