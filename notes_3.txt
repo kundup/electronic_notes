@@ -1,0 +1,9 @@
+konu : induktor (henry) : akima karsi gosterilen direnctir.
+
+seri induktor : l1 + l2 ...
+paralel induktor : 1/ (1/l1 + 1/l2 ..)
+induktans (ohm) = xl = 2 * pi * f * l 
+
+hocam l burada : kablo capina, uzunluguna ve ortasinda magnetik bir cismin olmasina gore degisiklik gosterir.
+
+hocam induktansi artinca akim azalir ohm kanuna gore.
